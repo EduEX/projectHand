@@ -28,3 +28,9 @@ Time: 0:40
 Phone Number: +558598569832
 Message: Edu aqui, Luan
 --------------------
+Date: 22/11/2022
+Time: 0:1
+Phone Number: +558598569832
+Image: teste.png
+Caption: *22/11/2022*: Sistema atuando ás *0h1min*.
+--------------------
