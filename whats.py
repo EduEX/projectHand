@@ -1,14 +1,36 @@
 import pywhatkit
+from time import sleep as delay
 from time import  sleep
 from datetime import datetime
+import requests, json
 
 trava = 0
 
 while True:
-    agora = datetime.now()
-    sleep(0.1)
-    print(agora)
-    if(agora.hour == 0 and agora.minute == 1 and trava == 0):
-        trava = 1
-        stringEnviar = f"*{agora.day}/{agora.month}/{agora.year}*: Sistema atuando ás *{agora.hour}h{agora.minute}min*."
-        pywhatkit.sendwhats_image("+558598569832", "teste.png", stringEnviar, 15, True, 3)
+    delay(40)
+    urlBanco = 'https://projetohandersonn-default-rtdb.firebaseio.com/.json'
+    response = requests.get(urlBanco)
+    if(response.status_code == 200):
+        codeZap = response.json()['codZap']['code']
+        nada, codeZap = codeZap.split('com/')
+        horarios = response.json()['horarios']
+        agora = datetime.now()
+        print(f'Horário: {agora}, codeZap: {codeZap}, Horários: {horarios}')
+        for key in horarios:
+            horario = horarios[key]
+            horas, minutos = horario.split(':')
+            print(f'Horas: {horas}, Minutos: {minutos}')
+            if(str(agora.hour) == horas and str(agora.minute) == minutos):
+                trava = 1
+                if(agora.day < 10):
+                    stringDay = f'0{agora.day}'
+                else:
+                    stringDay = str(agora.day)
+                if(agora.month < 10):
+                    stringMes = f'0{agora.month}'
+                else:
+                    stringMes = str(agora.month)
+
+                stringEnviar = f'*{stringDay}-{stringMes}-{agora.year}*: Sistema atuando *{agora.hour}h{agora.minute}min*.'
+                print(stringEnviar)
+                pywhatkit.sendwhats_image(codeZap, "image1.jpg", stringEnviar, 20, True, 3)

@@ -34,3 +34,339 @@ Phone Number: +558598569832
 Image: teste.png
 Caption: *22/11/2022*: Sistema atuando ás *0h1min*.
 --------------------
+Date: 24/11/2022
+Time: 14:37
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h37min*.
+--------------------
+Date: 24/11/2022
+Time: 14:39
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h39min*.
+--------------------
+Date: 24/11/2022
+Time: 14:40
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h40min*.
+--------------------
+Date: 24/11/2022
+Time: 14:40
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h40min*.
+--------------------
+Date: 24/11/2022
+Time: 14:41
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h41min*.
+--------------------
+Date: 24/11/2022
+Time: 14:42
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h42min*.
+--------------------
+Date: 24/11/2022
+Time: 14:53
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h53min*.
+--------------------
+Date: 24/11/2022
+Time: 14:54
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h54min*.
+--------------------
+Date: 24/11/2022
+Time: 14:55
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h55min*.
+--------------------
+Date: 24/11/2022
+Time: 14:56
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h56min*.
+--------------------
+Date: 24/11/2022
+Time: 14:57
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h57min*.
+--------------------
+Date: 24/11/2022
+Time: 14:58
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h58min*.
+--------------------
+Date: 24/11/2022
+Time: 14:59
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *14h59min*.
+--------------------
+Date: 24/11/2022
+Time: 15:0
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h0min*.
+--------------------
+Date: 24/11/2022
+Time: 15:1
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h1min*.
+--------------------
+Date: 24/11/2022
+Time: 15:2
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h2min*.
+--------------------
+Date: 24/11/2022
+Time: 15:3
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h3min*.
+--------------------
+Date: 24/11/2022
+Time: 15:4
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h4min*.
+--------------------
+Date: 24/11/2022
+Time: 15:5
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h5min*.
+--------------------
+Date: 24/11/2022
+Time: 15:6
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h6min*.
+--------------------
+Date: 24/11/2022
+Time: 15:7
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h7min*.
+--------------------
+Date: 24/11/2022
+Time: 15:8
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h8min*.
+--------------------
+Date: 24/11/2022
+Time: 15:9
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h9min*.
+--------------------
+Date: 24/11/2022
+Time: 15:10
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h10min*.
+--------------------
+Date: 24/11/2022
+Time: 15:11
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h11min*.
+--------------------
+Date: 24/11/2022
+Time: 15:12
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h12min*.
+--------------------
+Date: 24/11/2022
+Time: 15:13
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h13min*.
+--------------------
+Date: 24/11/2022
+Time: 15:14
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h14min*.
+--------------------
+Date: 24/11/2022
+Time: 15:15
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h15min*.
+--------------------
+Date: 24/11/2022
+Time: 15:16
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h16min*.
+--------------------
+Date: 24/11/2022
+Time: 15:17
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h17min*.
+--------------------
+Date: 24/11/2022
+Time: 15:18
+Phone Number: +558598569832
+Image: teste.png
+Caption: *24/11/2022*: Sistema atuando ás *15h18min*.
+--------------------
+Date: 4/12/2022
+Time: 21:28
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h28min*.
+--------------------
+Date: 4/12/2022
+Time: 21:29
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h29min*.
+--------------------
+Date: 4/12/2022
+Time: 21:30
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h30min*.
+--------------------
+Date: 4/12/2022
+Time: 21:31
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h31min*.
+--------------------
+Date: 4/12/2022
+Time: 21:34
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h34min*.
+--------------------
+Date: 4/12/2022
+Time: 21:35
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h35min*.
+--------------------
+Date: 4/12/2022
+Time: 21:39
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h39min*.
+--------------------
+Date: 4/12/2022
+Time: 21:41
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: stringEnviar
+--------------------
+Date: 4/12/2022
+Time: 21:42
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: stringEnviar
+--------------------
+Date: 4/12/2022
+Time: 21:46
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h46min*.
+--------------------
+Date: 4/12/2022
+Time: 21:47
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h47min*.
+--------------------
+Date: 4/12/2022
+Time: 21:48
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h48min*.
+--------------------
+Date: 4/12/2022
+Time: 21:49
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h49min*.
+--------------------
+Date: 4/12/2022
+Time: 21:50
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *4/12/2022*: Sistema atuando ás *21h50min*.
+--------------------
+Date: 4/12/2022
+Time: 21:58
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: jkgdjfkgjjjgkjkjg kjgjkfgjkjg j kjkk fdf sfj
+--------------------
+Date: 4/12/2022
+Time: 21:59
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: jkgdjfkgjjjgkjkjg kjgjkfgjkjg j kjkk fdf sfj
+--------------------
+Date: 4/12/2022
+Time: 22:36
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando ás *22h36min*.
+--------------------
+Date: 4/12/2022
+Time: 22:37
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando ás *22h37min*.
+--------------------
+Date: 4/12/2022
+Time: 22:41
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando às *22h41min*.
+--------------------
+Date: 4/12/2022
+Time: 22:42
+Group ID: EC91WiyLfvH1ALikEmqHuu
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando às *22h42min*.
+--------------------
+Date: 4/12/2022
+Time: 22:46
+Group ID: DnQ8h6hMoC230FRLOs9HZc
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando *22h46min*.
+--------------------
+Date: 4/12/2022
+Time: 22:47
+Group ID: DnQ8h6hMoC230FRLOs9HZc
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando *22h47min*.
+--------------------
+Date: 4/12/2022
+Time: 22:48
+Group ID: DnQ8h6hMoC230FRLOs9HZc
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando *22h48min*.
+--------------------
+Date: 4/12/2022
+Time: 22:49
+Group ID: DnQ8h6hMoC230FRLOs9HZc
+Image: image1.jpg
+Caption: *04-12-2022*: Sistema atuando *22h49min*.
+--------------------
